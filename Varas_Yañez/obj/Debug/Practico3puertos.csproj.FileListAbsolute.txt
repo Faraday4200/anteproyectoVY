@@ -1,0 +1,20 @@
+C:\Users\Felipe Yañez\source\repos\Practico3puertos\obj\Debug\Practico3puertos.csprojAssemblyReference.cache
+C:\Users\Felipe Yañez\source\repos\Practico3puertos\obj\Debug\Practico3puertos.Form1.resources
+C:\Users\Felipe Yañez\source\repos\Practico3puertos\obj\Debug\Practico3puertos.Properties.Resources.resources
+C:\Users\Felipe Yañez\source\repos\Practico3puertos\obj\Debug\Practico3puertos.csproj.GenerateResource.cache
+C:\Users\Felipe Yañez\source\repos\Practico3puertos\obj\Debug\Practico3puertos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Yañez\source\repos\Practico3puertos\bin\Debug\Practico3puertos.exe.config
+C:\Users\Felipe Yañez\source\repos\Practico3puertos\bin\Debug\Practico3puertos.exe
+C:\Users\Felipe Yañez\source\repos\Practico3puertos\bin\Debug\Practico3puertos.pdb
+C:\Users\Felipe Yañez\source\repos\Practico3puertos\obj\Debug\Practico3puertos.exe
+C:\Users\Felipe Yañez\source\repos\Practico3puertos\obj\Debug\Practico3puertos.pdb
+C:\Users\laboratorio\Desktop\Practico3puertos\bin\Debug\Practico3puertos.exe.config
+C:\Users\laboratorio\Desktop\Practico3puertos\bin\Debug\Practico3puertos.exe
+C:\Users\laboratorio\Desktop\Practico3puertos\bin\Debug\Practico3puertos.pdb
+C:\Users\laboratorio\Desktop\Practico3puertos\obj\Debug\Practico3puertos.csprojAssemblyReference.cache
+C:\Users\laboratorio\Desktop\Practico3puertos\obj\Debug\Practico3puertos.Form1.resources
+C:\Users\laboratorio\Desktop\Practico3puertos\obj\Debug\Practico3puertos.Properties.Resources.resources
+C:\Users\laboratorio\Desktop\Practico3puertos\obj\Debug\Practico3puertos.csproj.GenerateResource.cache
+C:\Users\laboratorio\Desktop\Practico3puertos\obj\Debug\Practico3puertos.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Desktop\Practico3puertos\obj\Debug\Practico3puertos.exe
+C:\Users\laboratorio\Desktop\Practico3puertos\obj\Debug\Practico3puertos.pdb
